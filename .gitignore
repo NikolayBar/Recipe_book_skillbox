@@ -144,3 +144,4 @@ z_*/
 # basedata
 *.db
 *.sqbpro
+project_info/*
